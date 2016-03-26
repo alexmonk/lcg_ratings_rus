@@ -243,11 +243,7 @@ void CalculateElo(const vector<Tournament>& tournaments, const vector<Player>& a
 		string8_t header;
 		for (size_t column = 0; column < numTournaments; ++column)
 		{
-			if (!header.empty())
-			{
-				header += ", ";
-			}
-			header += historyOfRatings[numTournaments-1].first;
+			header += ", " + historyOfRatings[numTournaments-1].first;
 		}
 
 		string8_t text = header + "\r\n";
