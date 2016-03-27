@@ -23,7 +23,7 @@ string8_t TableToString(const boost::property_tree::ptree& root)
 	string8_t text;
 	BOOST_FOREACH(const ptree::value_type& game, root)
 	{
-		if (game.first != "Game" && !boost::starts_with(game.first, "Final_"))
+		if (!boost::starts_with(game.first, "Game") && !boost::starts_with(game.first, "Final"))
 			continue;
 
 		string8_t score = game.second.get<string8_t>("Score");
