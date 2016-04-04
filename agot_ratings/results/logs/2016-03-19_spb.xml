@@ -15,7 +15,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Логинов</player1>
+		<player1>Логинов Сергей</player1>
 		<player2>Дмитрий Зубко</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
@@ -93,7 +93,7 @@
 	</match>
 	<match>
 		<player1>Митя Ветошкин</player1>
-		<player2>Сергей Логинов</player2>
+		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
@@ -148,7 +148,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Логинов</player1>
+		<player1>Логинов Сергей</player1>
 		<player2>Артём Фомичев</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
@@ -246,7 +246,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Логинов</player1>
+		<player1>Логинов Сергей</player1>
 		<player2>Михаил Поталицын</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
