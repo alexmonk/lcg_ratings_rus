@@ -16,6 +16,8 @@ Player::Player(const string8_t& fullName)
 	m_secondName = ConvertTo16(fullName.substr(it+1));
 	boost::replace_all(m_firstName, TEXT16("¸"), TEXT16("å"));
 	boost::replace_all(m_secondName, TEXT16("¸"), TEXT16("å"));
+	boost::replace_all(m_firstName, TEXT16(" "), TEXT16(""));
+	boost::replace_all(m_secondName, TEXT16(" "), TEXT16(""));
 }
 
 Player::Player(const string8_t& firstName, const string8_t& secondName)
