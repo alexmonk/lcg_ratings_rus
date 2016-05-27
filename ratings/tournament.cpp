@@ -67,7 +67,7 @@ Tournament ReadTournament(const string8_t& filePath)
 	const ptree& root = xmlDocument.get_child("root");
 
 	const ptree& header = root.get_child("header");
-	result.m_date = boost::gregorian::date(boost::gregorian::from_string(header.get<string8_t>("date")));
+	result.m_date = boost::gregorian::from_string(header.get<string8_t>("date"));
 	string8_t b = boost::gregorian::to_simple_string(result.m_date);
 	BOOST_FOREACH(const ptree::value_type& city, header.get_child("location"))
 	{

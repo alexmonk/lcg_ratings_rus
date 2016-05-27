@@ -1,4 +1,5 @@
 #include <ratings.h>
+#include <tome_format.h>
 #include <framework/system/file.h>
 #include <framework/system/filesystem.h>
 #include <boost/property_tree/ptree.hpp>
@@ -117,8 +118,16 @@ void ConvertLogs(const string8_t& rawLogDir, const string8_t& logDir, const stri
 	{
 		string8_t output = input;
 		boost::replace_all(output, rawLogDir, logDir);
-		boost::replace_all(output, ".ant", ".xml");
-		ConvertLog(input, output);
+		if (output.find(".ant") != string8_t::npos)
+		{
+			boost::replace_all(output, ".ant", ".xml");
+			ConvertLog(input, output);
+		}
+		else
+		{
+			boost::replace_all(output, ".txt", ".xml");
+			my::ratings::ConvertTomeLog(input, output);
+		}
 
 		output = input;
 		boost::replace_all(output, rawLogDir, rawLogBackuoDir);

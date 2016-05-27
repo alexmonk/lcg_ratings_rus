@@ -5,6 +5,7 @@ set(source
 	elo.cpp
 	tournament.h
 	tournament.cpp
+	tome_format.cpp
 
 	../include/ratings.h
 	ratings.cpp
