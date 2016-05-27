@@ -23,12 +23,12 @@ struct EloSettings
 	EloSettings(double startRating, double changeFactor, double logisticPowerBase, double logisticRatingDenominator);
 
 	double m_startRating;
-	double m_changeFactor;
+	double m_ratingPerPoint;
 	double m_logisticPowerBase;
 	double m_logisticRatingDenominator;
 };
 
-EloSettings StandartEloSettings();
+EloSettings StandartEloSettings(double ratingPerPoint);
 
 void CalculateElo(const vector<Tournament>& tournaments, const vector<Player>& activePlayers, const EloSettings& settings, const FileSettings& fileSettings);
 

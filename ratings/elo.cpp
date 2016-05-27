@@ -98,11 +98,11 @@ vector<Rating> GetFinalRatings(const vector<PlayerHistory>& history)
 	return result;
 }
 
-double ChangeOfRating(double myRating, double opponentRating, double score, uint8_t gameCount, const EloSettings& settings)
+double ChangeOfRating(double myRating, double opponentRating, double score, double changeFactor, const EloSettings& settings)
 {
 	double ratingDifference = (opponentRating - myRating)/settings.m_logisticRatingDenominator;
 	double scoreExpectation = 1./(1. + pow(settings.m_logisticPowerBase, ratingDifference));
-	return gameCount * settings.m_changeFactor * (score - scoreExpectation);
+	return changeFactor * (score - scoreExpectation);
 }
 
 std::pair<uint8_t, uint8_t> CalculateScore(const Match& match)
@@ -158,21 +158,21 @@ FileSettings StandartFileSettings(const string8_t& rootDir, const string8_t& nam
 	return settings;
 }
 
-EloSettings::EloSettings(double startRating, double changeFactor, double logisticPowerBase, double logisticRatingDenominator)
+EloSettings::EloSettings(double startRating, double ratingPerPoint, double logisticPowerBase, double logisticRatingDenominator)
 	: m_startRating(startRating)
-	, m_changeFactor(changeFactor)
+	, m_ratingPerPoint(ratingPerPoint)
 	, m_logisticPowerBase(logisticPowerBase)
 	, m_logisticRatingDenominator(logisticRatingDenominator)
 {
 	EXPECT(m_startRating > 0);
-	EXPECT(m_changeFactor > 0);
+	EXPECT(m_ratingPerPoint > 0);
 	EXPECT(m_logisticPowerBase > 0);
 	EXPECT(m_logisticRatingDenominator > 0);
 }
 
-EloSettings StandartEloSettings()
+EloSettings StandartEloSettings(double ratingPerPoint)
 {
-	return EloSettings(1000, 10, 10, 400);
+	return EloSettings(1000, ratingPerPoint, 10, 400);
 }
 
 void CalculateElo(const vector<Tournament>& tournaments, const vector<Player>& activePlayers, const EloSettings& settings, const FileSettings& fileSettings)
@@ -197,7 +197,8 @@ void CalculateElo(const vector<Tournament>& tournaments, const vector<Player>& a
 			double oldRating1 = history1.m_rating;
 			double oldRating2 = history2.m_rating;
 			std::pair<uint8_t, uint8_t> score = CalculateScore(match);
-			double changeOfRating = ChangeOfRating(oldRating1, oldRating2, double(score.first)/double(score.first + score.second), match.m_games.size(), settings);
+			double totalScore = score.first + score.second;
+			double changeOfRating = ChangeOfRating(oldRating1, oldRating2, double(score.first)/totalScore, totalScore * settings.m_ratingPerPoint, settings);
 
 			PlayerHistory::PlayerMatch match1(oldRating1, oldRating1 + changeOfRating, score.first);
 			PlayerHistory::PlayerMatch match2(oldRating2, oldRating2 - changeOfRating, score.second);

@@ -6,7 +6,7 @@
 namespace my {
 namespace ratings {
 
-void CalculateRatings(const string8_t& logDir, const string8_t& rootDir);
+void CalculateRatings(const string8_t& logDir, const string8_t& rootDir, double raitingPerPoint);
 
 } // namespace ratings
 } // namespace my
