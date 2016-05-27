@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2016-05-21</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+<matches>
+	<match>
+		<player1>Глазова Татьяна</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пылев Владимир</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гольцов Василий</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>3</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Пинчук Сергей</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гольцов Василий</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>1</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Глазова Татьяна</player1>
+		<player2>Пылев Владимир</player2>
+		<games>
+			<game><score1>1</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Смирнов Антон</player2>
+		<games>
+			<game><score1>3</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Гольцов Василий</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пылев Владимир</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Гольцов Василий</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Глазова Татьяна</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Годелашвили Александр</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Гольцов Василий</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Пылев Владимир</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Глазова Татьяна</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
