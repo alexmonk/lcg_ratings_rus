@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2016-05-28</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+<matches>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Чердаков Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>1</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Хохлов Тимофей</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Махов Роман</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Махов Роман</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player2>Чердаков Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Хохлов Тимофей</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>1</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Чердаков Евгений</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Хохлов Тимофей</player1>
+		<player2>Махов Роман</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Парфиевич Дмитрий</player1>
+		<player2>Махов Роман</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Хохлов Тимофей</player1>
+		<player2>Чердаков Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Махов Роман</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Парфиевич Дмитрий</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Чердаков Евгений</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+</matches>
+</root>

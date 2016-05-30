@@ -5,8 +5,23 @@
 #include <boost/property_tree/xml_parser.hpp>
 #include <boost/algorithm/string/replace.hpp>
 #include <boost/algorithm/string/predicate.hpp>
+#include <boost/range/algorithm/find_if.hpp>
 #include <boost/foreach.hpp>
+#include <boost/bind.hpp>
 #include <iostream>
+
+struct PlayerAlias
+{
+	PlayerAlias(const string8_t& name, const string8_t& alias) : m_name(name), m_alias(alias) { }
+
+	string8_t m_name;
+	string8_t m_alias;
+};
+
+string8_t GetName(const string8_t& alias, const vector<PlayerAlias>& players)
+{
+	return boost::find_if(players, boost::bind(&PlayerAlias::m_alias, _1) == alias)->m_name;
+}
 
 string8_t GameToString(const string8_t& score)
 {
@@ -16,7 +31,7 @@ string8_t GameToString(const string8_t& score)
 	return "<score1>" + score1 + "</score1><score2>" + score2 + "</score2>";
 }
 
-string8_t TableToString(const boost::property_tree::ptree& root)
+string8_t TableToString(const boost::property_tree::ptree& root, const vector<PlayerAlias>& players)
 {
 	using namespace boost::property_tree;
 
@@ -31,8 +46,8 @@ string8_t TableToString(const boost::property_tree::ptree& root)
 			continue;
 
 		text += "\t<match>\n";
-		text += "\t\t<player1>" + game.second.get<string8_t>("Player1Alias") + "</player1>\n";
-		text += "\t\t<player2>" + game.second.get<string8_t>("Player2Alias") + "</player2>\n";
+		text += "\t\t<player1>" + GetName(game.second.get<string8_t>("Player1Alias"), players) + "</player1>\n";
+		text += "\t\t<player2>" + GetName(game.second.get<string8_t>("Player2Alias"), players) + "</player2>\n";
 
 		text += "\t\t<games>\n";
 		text += "\t\t\t<game>" + GameToString(score) + "</game>\n";
@@ -53,6 +68,15 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 	string8_t date = root.get<string8_t>("Date");
 	date = date.substr(0, date.find("T"));
 
+	vector<PlayerAlias> players;
+	BOOST_FOREACH(const ptree::value_type& player, root.get_child("PointsTable"))
+	{
+		string8_t name = player.second.get<string8_t>("Name");
+		string8_t surname = player.second.get<string8_t>("Surname");
+		string8_t alias = player.second.get<string8_t>("Alias");
+		players.push_back(PlayerAlias(surname + " " + name, alias));
+	}
+
 	string8_t text = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
 	text += "<root>\n";
 
@@ -66,14 +90,14 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 	text += "<matches>\n";
 	BOOST_FOREACH(const ptree::value_type& round, root.get_child("Rounds"))
 	{
-		string8_t roundText = TableToString(round.second.get_child("Games"));
+		string8_t roundText = TableToString(round.second.get_child("Games"), players);
 		if (!roundText.empty())
 		{
 			text += roundText;
 		}
 	}
 
-	string8_t playoff = TableToString(root.get_child("Playoffs"));
+	string8_t playoff = TableToString(root.get_child("Playoffs"), players);
 	if (!playoff.empty())
 	{
 		text += "\n" + playoff;
