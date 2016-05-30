@@ -23,6 +23,7 @@
 	</match>
 	<match>
 		<player1>Мухин Анатолий</player1>
+		<player2>Самигулин Максум</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
@@ -77,6 +78,7 @@
 		</games>
 	</match>
 	<match>
+		<player1>Самигулин Максум</player1>
 		<player2>Чердаков Евгений</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
@@ -105,6 +107,7 @@
 	</match>
 	<match>
 		<player1>Борц Ларик</player1>
+		<player2>Самигулин Максум</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
@@ -139,6 +142,7 @@
 	</match>
 	<match>
 		<player1>Каракасиян Вания</player1>
+		<player2>Самигулин Максум</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
@@ -172,6 +176,7 @@
 		</games>
 	</match>
 	<match>
+		<player1>Самигулин Максум</player1>
 		<player2>Овсянников Евгений</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
