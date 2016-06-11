@@ -1,0 +1,3115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name />
+  <Date>2016-04-02T00:00:00+03:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Id>
+      <Place>18</Place>
+      <Alias>Евгений Овсянников</Alias>
+      <Race>Lannister</Race>
+      <Agenda>Targaryen</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>4</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>20</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.64</Bucholz>
+      <Bucholz2>2.296</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>38e6df72-7399-4f74-8adb-289608aebbb0</Id>
+      <Place>19</Place>
+      <Alias>Лев Кулаев</Alias>
+      <Race>Targaryen</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>4</GamesLoose>
+      <SmallPointsPlus>1</SmallPointsPlus>
+      <SmallPointsMinus>19</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>false</Active>
+      <Bucholz>3.1</Bucholz>
+      <Bucholz2>2.08</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>1</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Id>
+      <Place>8</Place>
+      <Alias>Андрей Гаврилов</Alias>
+      <Race>Greyjoy</Race>
+      <Agenda>Lannister</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.76</Bucholz>
+      <Bucholz2>2.682</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Id>
+      <Place>12</Place>
+      <Alias>Павел Бакаев</Alias>
+      <Race>Stark</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>11</SmallPointsPlus>
+      <SmallPointsMinus>14</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.52</Bucholz>
+      <Bucholz2>2.534</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>11</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Id>
+      <Place>17</Place>
+      <Alias>Тимофей Хохлов</Alias>
+      <Race>Stark</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>4</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>20</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.44</Bucholz>
+      <Bucholz2>2.026</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>true</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Id>
+      <Place>16</Place>
+      <Alias>Дмитрий Ганихин</Alias>
+      <Race>Lannister</Race>
+      <Agenda>Lord of the Crossing</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>15</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.37</Bucholz>
+      <Bucholz2>2.578</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>26e5af56-b96d-4329-866d-307923bbd3bd</Id>
+      <Place>9</Place>
+      <Alias>Анатолий Мухин</Alias>
+      <Race>TheNightsWatch</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.16</Bucholz>
+      <Bucholz2>2.474</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Id>
+      <Place>10</Place>
+      <Alias>Митя Ветошкин</Alias>
+      <Race>Baratheon</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>13</SmallPointsPlus>
+      <SmallPointsMinus>12</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.29</Bucholz>
+      <Bucholz2>2.144</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>13</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>0bd58007-3769-4397-a377-fea697ba2f02</Id>
+      <Place>15</Place>
+      <Alias>Вания Каракасиян</Alias>
+      <Race>Martell</Race>
+      <Agenda>Tyrell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>15</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.84</Bucholz>
+      <Bucholz2>2.572</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Id>
+      <Place>5</Place>
+      <Alias>Максум Самигулин</Alias>
+      <Race>Baratheon</Race>
+      <Agenda>Tyrell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.04</Bucholz>
+      <Bucholz2>2.658</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Id>
+      <Place>7</Place>
+      <Alias>Максим Лазарев</Alias>
+      <Race>Martell</Race>
+      <Agenda>Lord of the Crossing</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.8</Bucholz>
+      <Bucholz2>2.366</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Id>
+      <Place>2</Place>
+      <Alias>Ларик Борц</Alias>
+      <Race>Targaryen</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>4</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>20</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.84</Bucholz>
+      <Bucholz2>2.864</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>20</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Id>
+      <Place>3</Place>
+      <Alias>Андрей Овешников</Alias>
+      <Race>Baratheon</Race>
+      <Agenda>Tyrell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>4</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>20</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.97</Bucholz>
+      <Bucholz2>2.734</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>20</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Id>
+      <Place>11</Place>
+      <Alias>Евгений Чердаков</Alias>
+      <Race>Greyjoy</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>11</SmallPointsPlus>
+      <SmallPointsMinus>14</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.16</Bucholz>
+      <Bucholz2>2.634</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>11</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Id>
+      <Place>4</Place>
+      <Alias>Игорь Ревзин</Alias>
+      <Race>Lannister</Race>
+      <Agenda>Lord of the Crossing</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>4</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>19</SmallPointsPlus>
+      <SmallPointsMinus>6</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.69</Bucholz>
+      <Bucholz2>2.876</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>19</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Id>
+      <Place>6</Place>
+      <Alias>Илья Журавлёв</Alias>
+      <Race>Targaryen</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.0</Bucholz>
+      <Bucholz2>2.522</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Id>
+      <Place>13</Place>
+      <Alias>Артём Фомичев</Alias>
+      <Race>Tyrell</Race>
+      <Agenda>The Night's Watch</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>15</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.8</Bucholz>
+      <Bucholz2>2.53</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f69ca324-2270-4495-8583-0a76d9e05283</Id>
+      <Place>14</Place>
+      <Alias>Никита Пугачев</Alias>
+      <Race>Tyrell</Race>
+      <Agenda>Lord of the Crossing</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>15</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.4</Bucholz>
+      <Bucholz2>2.538</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Id>
+      <Place>1</Place>
+      <Alias>Дмитрий Зубко</Alias>
+      <Race>Lannister</Race>
+      <Agenda>Lord of the Crossing</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>5</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>25</SmallPointsPlus>
+      <SmallPointsMinus>0</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.96</Bucholz>
+      <Bucholz2>2.802</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>25</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Id>
+      <Place>20</Place>
+      <Alias>Александр Годелашвили</Alias>
+      <Race>Stark</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>4</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>20</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>false</Active>
+      <Bucholz>2.3</Bucholz>
+      <Bucholz2>1.8825</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>0</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+          <Player2Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Тимофей Хохлов</Player1Alias>
+          <Player2Alias>Анатолий Мухин</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+          <Player2Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максим Лазарев</Player1Alias>
+          <Player2Alias>Александр Годелашвили</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+          <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Андрей Гаврилов</Player1Alias>
+          <Player2Alias>Митя Ветошкин</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+          <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максум Самигулин</Player1Alias>
+          <Player2Alias>Андрей Овешников</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+          <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Никита Пугачев</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+          <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Павел Бакаев</Player1Alias>
+          <Player2Alias>Илья Журавлёв</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+          <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Овсянников</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+          <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Ганихин</Player1Alias>
+          <Player2Alias>Артём Фомичев</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>8</Number>
+        </Game>
+        <Game>
+          <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+          <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Вания Каракасиян</Player1Alias>
+          <Player2Alias>Евгений Чердаков</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>9</Number>
+        </Game>
+        <Game>
+          <Player1Id>38e6df72-7399-4f74-8adb-289608aebbb0</Player1Id>
+          <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Лев Кулаев</Player1Alias>
+          <Player2Alias>Игорь Ревзин</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>10</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+          <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Анатолий Мухин</Player1Alias>
+          <Player2Alias>Игорь Ревзин</Player2Alias>
+          <Player1Race>TheNightsWatch</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+          <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максум Самигулин</Player1Alias>
+          <Player2Alias>Евгений Чердаков</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+          <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Андрей Гаврилов</Player1Alias>
+          <Player2Alias>Илья Журавлёв</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+          <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максим Лазарев</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+          <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Артём Фомичев</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+          <Player2Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Овсянников</Player1Alias>
+          <Player2Alias>Тимофей Хохлов</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>38e6df72-7399-4f74-8adb-289608aebbb0</Player1Id>
+          <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Лев Кулаев</Player1Alias>
+          <Player2Alias>Андрей Овешников</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+          <Player2Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Вания Каракасиян</Player1Alias>
+          <Player2Alias>Александр Годелашвили</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>8</Number>
+        </Game>
+        <Game>
+          <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+          <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Павел Бакаев</Player1Alias>
+          <Player2Alias>Митя Ветошкин</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_1_4</Score>
+          <Number>9</Number>
+        </Game>
+        <Game>
+          <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+          <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Ганихин</Player1Alias>
+          <Player2Alias>Никита Пугачев</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>10</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+          <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Евгений Чердаков</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player1Id>
+          <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Игорь Ревзин</Player1Alias>
+          <Player2Alias>Илья Журавлёв</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+          <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максум Самигулин</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+          <Player2Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Андрей Гаврилов</Player1Alias>
+          <Player2Alias>Анатолий Мухин</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player1Id>
+          <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Артём Фомичев</Player1Alias>
+          <Player2Alias>Никита Пугачев</Player2Alias>
+          <Player1Race>Tyrell</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+          <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Вания Каракасиян</Player1Alias>
+          <Player2Alias>Максим Лазарев</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Martell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+          <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Тимофей Хохлов</Player1Alias>
+          <Player2Alias>Андрей Овешников</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>38e6df72-7399-4f74-8adb-289608aebbb0</Player1Id>
+          <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Лев Кулаев</Player1Alias>
+          <Player2Alias>Митя Ветошкин</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_1_4</Score>
+          <Number>8</Number>
+        </Game>
+        <Game>
+          <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+          <Player2Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Овсянников</Player1Alias>
+          <Player2Alias>Павел Бакаев</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>9</Number>
+        </Game>
+        <Game>
+          <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+          <Player2Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Ганихин</Player1Alias>
+          <Player2Alias>Александр Годелашвили</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>10</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>4</Number>
+      <Games>
+        <Game>
+          <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+          <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player1Id>
+          <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Чердаков</Player1Alias>
+          <Player2Alias>Игорь Ревзин</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_1_4</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player1Id>
+          <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Илья Журавлёв</Player1Alias>
+          <Player2Alias>Артём Фомичев</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+          <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Андрей Гаврилов</Player1Alias>
+          <Player2Alias>Максим Лазарев</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Martell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+          <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Митя Ветошкин</Player1Alias>
+          <Player2Alias>Андрей Овешников</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+          <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максум Самигулин</Player1Alias>
+          <Player2Alias>Никита Пугачев</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+          <Player2Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Овсянников</Player1Alias>
+          <Player2Alias>Анатолий Мухин</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+          <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Тимофей Хохлов</Player1Alias>
+          <Player2Alias>Вания Каракасиян</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Martell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>8</Number>
+        </Game>
+        <Game>
+          <Player1Id>38e6df72-7399-4f74-8adb-289608aebbb0</Player1Id>
+          <Player2Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Лев Кулаев</Player1Alias>
+          <Player2Alias>Дмитрий Ганихин</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>9</Number>
+        </Game>
+        <Game>
+          <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+          <Player2Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Павел Бакаев</Player1Alias>
+          <Player2Alias>Александр Годелашвили</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>10</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>5</Number>
+      <Games>
+        <Game>
+          <Player1Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player1Id>
+          <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Игорь Ревзин</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Lannister</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+          <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Илья Журавлёв</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+          <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максим Лазарев</Player1Alias>
+          <Player2Alias>Андрей Овешников</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+          <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Андрей Гаврилов</Player1Alias>
+          <Player2Alias>Евгений Чердаков</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+          <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максум Самигулин</Player1Alias>
+          <Player2Alias>Артём Фомичев</Player2Alias>
+          <Player1Race>Baratheon</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+          <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Анатолий Мухин</Player1Alias>
+          <Player2Alias>Вания Каракасиян</Player2Alias>
+          <Player1Race>TheNightsWatch</Player1Race>
+          <Player2Race>Martell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+          <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Ганихин</Player1Alias>
+          <Player2Alias>Митя Ветошкин</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Baratheon</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+          <Player2Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Павел Бакаев</Player1Alias>
+          <Player2Alias>Тимофей Хохлов</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>8</Number>
+        </Game>
+        <Game>
+          <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+          <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Овсянников</Player1Alias>
+          <Player2Alias>Никита Пугачев</Player2Alias>
+          <Player1Race>Lannister</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>9</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Андрей Гаврилов</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Дмитрий Ганихин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Митя Ветошкин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Вания Каракасиян</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Павел Бакаев</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Тимофей Хохлов</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Дмитрий Ганихин</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Вания Каракасиян</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Гаврилов</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Дмитрий Ганихин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Анатолий Мухин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>TheNightsWatch</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Вания Каракасиян</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Дмитрий Ганихин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Митя Ветошкин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Тимофей Хохлов</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Анатолий Мухин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>TheNightsWatch</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Вания Каракасиян</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Ганихин</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Митя Ветошкин</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>26e5af56-b96d-4329-866d-307923bbd3bd</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>0bd58007-3769-4397-a377-fea697ba2f02</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Вания Каракасиян</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Митя Ветошкин</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Максум Самигулин</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0bd58007-3769-4397-a377-fea697ba2f02</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Вания Каракасиян</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+      <Player2Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максум Самигулин</Player1Alias>
+      <Player2Alias>Максим Лазарев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максум Самигулин</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максум Самигулин</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максум Самигулин</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максим Лазарев</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Евгений Чердаков</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Андрей Овешников</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Baratheon</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player1Id>
+      <Player2Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Чердаков</Player1Alias>
+      <Player2Alias>Илья Журавлёв</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Чердаков</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Чердаков</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Чердаков</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player1Id>
+      <Player2Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Игорь Ревзин</Player1Alias>
+      <Player2Alias>Артём Фомичев</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Игорь Ревзин</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Илья Журавлёв</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Илья Журавлёв</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Артём Фомичев</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f69ca324-2270-4495-8583-0a76d9e05283</Player1Id>
+      <Player2Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Никита Пугачев</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Player1Id>
+      <Player2Id>f69ca324-2270-4495-8583-0a76d9e05283</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Павел Бакаев</Player1Alias>
+      <Player2Alias>Никита Пугачев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>8</Number>
+    </Game>
+  </AllGames>
+  <FinalResults>
+    <FinalResult>
+      <FinalPlace>1</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Id>
+        <Place>2</Place>
+        <Alias>Ларик Борц</Alias>
+        <Race>Targaryen</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>4</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>20</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.84</Bucholz>
+        <Bucholz2>2.864</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>20</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>2</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Id>
+        <Place>4</Place>
+        <Alias>Игорь Ревзин</Alias>
+        <Race>Lannister</Race>
+        <Agenda>Lord of the Crossing</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>4</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>19</SmallPointsPlus>
+        <SmallPointsMinus>6</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.69</Bucholz>
+        <Bucholz2>2.876</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>19</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>3</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Id>
+        <Place>1</Place>
+        <Alias>Дмитрий Зубко</Alias>
+        <Race>Lannister</Race>
+        <Agenda>Lord of the Crossing</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>5</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>25</SmallPointsPlus>
+        <SmallPointsMinus>0</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.96</Bucholz>
+        <Bucholz2>2.802</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>25</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>4</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Id>
+        <Place>3</Place>
+        <Alias>Андрей Овешников</Alias>
+        <Race>Baratheon</Race>
+        <Agenda>Tyrell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>4</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>20</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.97</Bucholz>
+        <Bucholz2>2.734</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>20</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>5</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>b1acaa87-037e-478e-a626-f4b7301df7bf</Id>
+        <Place>5</Place>
+        <Alias>Максум Самигулин</Alias>
+        <Race>Baratheon</Race>
+        <Agenda>Tyrell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.04</Bucholz>
+        <Bucholz2>2.658</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>6</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2ee6b101-a8c5-4366-aa81-8d053c6bd790</Id>
+        <Place>6</Place>
+        <Alias>Илья Журавлёв</Alias>
+        <Race>Targaryen</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.0</Bucholz>
+        <Bucholz2>2.522</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>7</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>a9a4ad95-da5c-4eb1-8ba4-5585ed97765b</Id>
+        <Place>7</Place>
+        <Alias>Максим Лазарев</Alias>
+        <Race>Martell</Race>
+        <Agenda>Lord of the Crossing</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.8</Bucholz>
+        <Bucholz2>2.366</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>8</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2d85b64c-bd31-4324-91a1-ce13a6fa16ae</Id>
+        <Place>8</Place>
+        <Alias>Андрей Гаврилов</Alias>
+        <Race>Greyjoy</Race>
+        <Agenda>Lannister</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.76</Bucholz>
+        <Bucholz2>2.682</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>9</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>26e5af56-b96d-4329-866d-307923bbd3bd</Id>
+        <Place>9</Place>
+        <Alias>Анатолий Мухин</Alias>
+        <Race>TheNightsWatch</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.16</Bucholz>
+        <Bucholz2>2.474</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>10</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>345f42bf-91e3-449b-8a51-30dd73dd2a43</Id>
+        <Place>10</Place>
+        <Alias>Митя Ветошкин</Alias>
+        <Race>Baratheon</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>13</SmallPointsPlus>
+        <SmallPointsMinus>12</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.29</Bucholz>
+        <Bucholz2>2.144</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>13</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>11</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>bc23657e-4fa6-4e31-bd28-f1c87186c8b4</Id>
+        <Place>11</Place>
+        <Alias>Евгений Чердаков</Alias>
+        <Race>Greyjoy</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>11</SmallPointsPlus>
+        <SmallPointsMinus>14</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.16</Bucholz>
+        <Bucholz2>2.634</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>11</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>12</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>308ccfb2-c0fc-4633-9891-f56d8c03bc3d</Id>
+        <Place>12</Place>
+        <Alias>Павел Бакаев</Alias>
+        <Race>Stark</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>11</SmallPointsPlus>
+        <SmallPointsMinus>14</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.52</Bucholz>
+        <Bucholz2>2.534</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>11</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>13</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>24c7dede-c0a2-4545-ba56-2a13d497c4a1</Id>
+        <Place>13</Place>
+        <Alias>Артём Фомичев</Alias>
+        <Race>Tyrell</Race>
+        <Agenda>The Night's Watch</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>15</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.8</Bucholz>
+        <Bucholz2>2.53</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>14</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>f69ca324-2270-4495-8583-0a76d9e05283</Id>
+        <Place>14</Place>
+        <Alias>Никита Пугачев</Alias>
+        <Race>Tyrell</Race>
+        <Agenda>Lord of the Crossing</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>15</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.4</Bucholz>
+        <Bucholz2>2.538</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>15</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>0bd58007-3769-4397-a377-fea697ba2f02</Id>
+        <Place>15</Place>
+        <Alias>Вания Каракасиян</Alias>
+        <Race>Martell</Race>
+        <Agenda>Tyrell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>15</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.84</Bucholz>
+        <Bucholz2>2.572</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>16</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>fdc53856-39b7-4b8f-a0fe-09cbe1740dea</Id>
+        <Place>16</Place>
+        <Alias>Дмитрий Ганихин</Alias>
+        <Race>Lannister</Race>
+        <Agenda>Lord of the Crossing</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>15</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.37</Bucholz>
+        <Bucholz2>2.578</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>17</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>32552959-4e9c-4714-9c7e-77bbc69a5751</Id>
+        <Place>17</Place>
+        <Alias>Тимофей Хохлов</Alias>
+        <Race>Stark</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>4</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>20</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.44</Bucholz>
+        <Bucholz2>2.026</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>true</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>18</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>55d45490-fcce-491a-b2ec-1ad822dfaf9e</Id>
+        <Place>18</Place>
+        <Alias>Евгений Овсянников</Alias>
+        <Race>Lannister</Race>
+        <Agenda>Targaryen</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>4</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>20</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.64</Bucholz>
+        <Bucholz2>2.296</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>19</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>38e6df72-7399-4f74-8adb-289608aebbb0</Id>
+        <Place>19</Place>
+        <Alias>Лев Кулаев</Alias>
+        <Race>Targaryen</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>4</GamesLoose>
+        <SmallPointsPlus>1</SmallPointsPlus>
+        <SmallPointsMinus>19</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>false</Active>
+        <Bucholz>3.1</Bucholz>
+        <Bucholz2>2.08</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>1</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>20</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2cd90113-75e5-4378-a511-1fc5a60d0dd2</Id>
+        <Place>20</Place>
+        <Alias>Александр Годелашвили</Alias>
+        <Race>Stark</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>4</GamesLoose>
+        <SmallPointsPlus>0</SmallPointsPlus>
+        <SmallPointsMinus>20</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>false</Active>
+        <Bucholz>2.3</Bucholz>
+        <Bucholz2>1.8825</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>0</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+  </FinalResults>
+  <Playoffs>
+    <Final_2_01>
+      <Player1Id>b3b9ab56-cca2-48f6-9e7e-803808bf8871</Player1Id>
+      <Player2Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Игорь Ревзин</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Lannister</Player2Race>
+      <Score>Score_0_5</Score>
+      <Number>0</Number>
+    </Final_2_01>
+    <Final_2_02>
+      <Player1Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player1Id>
+      <Player2Id>29afc163-ddff-436a-93f5-d84b32ec7e5e</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Андрей Овешников</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Baratheon</Player2Race>
+      <Score>Score_5_0</Score>
+      <Number>0</Number>
+    </Final_2_02>
+    <Final>
+      <Player1Id>a6d9c3e2-e2b5-4f8f-81dc-173fde96fc77</Player1Id>
+      <Player2Id>d38415e6-509f-4a61-af8f-a061ccab24b0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Игорь Ревзин</Player1Alias>
+      <Player2Alias>Ларик Борц</Player2Alias>
+      <Player1Race>Lannister</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>Score_0_5</Score>
+      <Number>0</Number>
+    </Final>
+    <StartRound>Final_2</StartRound>
+  </Playoffs>
+</Tournament>

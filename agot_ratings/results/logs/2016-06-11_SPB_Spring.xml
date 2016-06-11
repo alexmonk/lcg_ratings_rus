@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2016-06-11</date>
+	<location>
+		<city>Spb</city>
+	</location>
+</header>
+<matches>
+	<match>
+		<player1>Фомичев Артем</player1>
+		<player2>Кириченко Сергей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ильичев Павел</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Ревзин Игорь</player2>
+		<games>
+			<game><score1>1</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичев Артем</player1>
+		<player2>Ильичев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Кириченко Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>1</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичев Артем</player1>
+		<player2>Ревзин Игорь</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Ильичев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Поталицын Михаил</player1>
+		<player2>Кириченко Сергей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
