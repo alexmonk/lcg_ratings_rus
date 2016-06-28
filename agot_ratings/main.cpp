@@ -42,7 +42,7 @@ string8_t TableToString(const boost::property_tree::ptree& root, const vector<Pl
 			continue;
 
 		string8_t score = game.second.get<string8_t>("Score");
-		if (score == "Score_BYE")
+		if (score == "Score_BYE" || score == "NotSet")
 			continue;
 
 		text += "\t<match>\n";
@@ -71,10 +71,10 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 	vector<PlayerAlias> players;
 	BOOST_FOREACH(const ptree::value_type& player, root.get_child("PointsTable"))
 	{
-		//string8_t name = player.second.get<string8_t>("Name");
-		//string8_t surname = player.second.get<string8_t>("Surname");
+		string8_t name = player.second.get<string8_t>("Name");
+		string8_t surname = player.second.get<string8_t>("Surname");
 		string8_t alias = player.second.get<string8_t>("Alias");
-		players.push_back(PlayerAlias(alias, alias));
+		players.push_back(PlayerAlias(surname + " " + name, alias));
 	}
 
 	string8_t text = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
