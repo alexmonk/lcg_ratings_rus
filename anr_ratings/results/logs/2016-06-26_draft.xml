@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2016-06-26</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+<matches>
+	<match>
+		<player1>Ромашка Чертополох</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Рогозин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Смирнов Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ромашка Чертополох</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Рогозин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Ромашка Чертополох</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Рогозин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Ромашка Чертополох</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Годелашвили Александр</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>

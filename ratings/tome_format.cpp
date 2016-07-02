@@ -47,6 +47,7 @@ struct Match
 void ConvertTomeLog(const string8_t& input, const string8_t& output)
 {
 	string8_t dateText = input.substr(input.find('/') + 1);
+	dateText = dateText.substr(0, dateText.find('_'));
 	boost::gregorian::date date = boost::gregorian::from_string(dateText);
 
 	using namespace boost::property_tree;
