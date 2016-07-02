@@ -8,7 +8,7 @@
 </header>
 <matches>
 	<match>
-		<player1>Ромашка Чертополох</player1>
+		<player1>Амирханов Артем</player1>
 		<player2>Шурыгин Егор</player2>
 		<games>
 			<game><score1>2</score1><score2>2</score2></game>
@@ -50,7 +50,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ромашка Чертополох</player1>
+		<player1>Амирханов Артем</player1>
 		<player2>Ковалев Александр</player2>
 		<games>
 			<game><score1>2</score1><score2>2</score2></game>
@@ -79,7 +79,7 @@
 	</match>
 	<match>
 		<player1>Попов Егор</player1>
-		<player2>Ромашка Чертополох</player2>
+		<player2>Амирханов Артем</player2>
 		<games>
 			<game><score1>2</score1><score2>2</score2></game>
 		</games>
@@ -100,7 +100,7 @@
 	</match>
 	<match>
 		<player1>Ярцев Александр</player1>
-		<player2>Ромашка Чертополох</player2>
+		<player2>Амирханов Артем</player2>
 		<games>
 			<game><score1>4</score1><score2>0</score2></game>
 		</games>
