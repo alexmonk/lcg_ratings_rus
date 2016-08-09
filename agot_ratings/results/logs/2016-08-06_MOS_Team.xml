@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2016-08-06</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+<matches>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Гаврилов Андрей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Афанасьев Сергей</player1>
+		<player2>Овешников Андрей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Смирнов Антон</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Пугачев Никита</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Чердаков Евгений</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Костинский Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Афанасьев Сергей</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Чердаков Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачев Никита</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Костинский Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гаврилов Андрей</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Афанасьев Сергей</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Костинский Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Чердаков Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гаврилов Андрей</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачев Никита</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Афанасьев Сергей</player1>
+		<player2>Смирнов Антон</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Пугачев Никита</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Гаврилов Андрей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Овешников Андрей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
