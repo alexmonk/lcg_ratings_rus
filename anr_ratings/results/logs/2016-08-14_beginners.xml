@@ -50,7 +50,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Буденая Анна</player1>
+		<player1>Буденная Анна</player1>
 		<player2>Сергеева Александра</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
@@ -72,7 +72,7 @@
 	</match>
 	<match>
 		<player1>Коновалов Виталий</player1>
-		<player2>Буденая Анна</player2>
+		<player2>Буденная Анна</player2>
 		<games>
 			<game><score1>2</score1><score2>3</score2></game>
 		</games>
@@ -142,7 +142,7 @@
 	</match>
 	<match>
 		<player1>Глушкова Катерина</player1>
-		<player2>Буденая Анна</player2>
+		<player2>Буденная Анна</player2>
 		<games>
 			<game><score1>3</score1><score2>3</score2></game>
 		</games>
@@ -190,7 +190,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Буденая Анна</player1>
+		<player1>Буденная Анна</player1>
 		<player2>Новичков Андрей</player2>
 		<games>
 			<game><score1>3</score1><score2>3</score2></game>
