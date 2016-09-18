@@ -74,7 +74,23 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 		string8_t name = player.second.get<string8_t>("Name");
 		string8_t surname = player.second.get<string8_t>("Surname");
 		string8_t alias = player.second.get<string8_t>("Alias");
-		players.push_back(PlayerAlias(surname + " " + name, alias));
+		string8_t fullName;
+		if (surname.empty() || name.empty())
+		{
+			if (surname.empty() && name.empty())
+			{
+				fullName = alias;
+			}
+			else
+			{
+				fullName = surname + name;
+			}
+		}
+		else
+		{
+			fullName = surname + " " + name;
+		}
+		players.push_back(PlayerAlias(fullName, alias));
 	}
 
 	string8_t text = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
