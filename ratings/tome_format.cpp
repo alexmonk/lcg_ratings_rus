@@ -90,9 +90,9 @@ void ConvertTomeLog(const string8_t& input, const string8_t& output)
 
 	outputText += "<header>\n";
 	outputText += "\t<date>" + boost::gregorian::to_iso_extended_string(date) + "</date>\n";
-	outputText += "\t<location>\n";
-	outputText += "\t\t<city>Msk</city>\n";
-	outputText += "\t</location>\n";
+	outputText += "\t<tags>\n";
+	outputText += "\t\t<tag>Msk</tag>\n";
+	outputText += "\t</tags>\n";
 	outputText += "</header>\n";
 
 	outputText += "<matches>\n";

@@ -79,9 +79,9 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 
 	text += "<header>\n";
 	text += "\t<date>" + date + "</date>\n";
-	text += "\t<location>\n";
-	text += "\t\t<city>Msk</city>\n";
-	text += "\t</location>\n";
+	text += "\t<tags>\n";
+	text += "\t\t<tag>Msk</tag>\n";
+	text += "\t</tags>\n";
 	text += "</header>\n";
 
 	text += "<matches>\n";

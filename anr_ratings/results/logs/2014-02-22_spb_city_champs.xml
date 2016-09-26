@@ -2,9 +2,9 @@
 <root>
 <header>
 	<date>2014-02-22</date>
-	<location>
-		<city>Spb</city>
-	</location>
+	<tags>
+		<tag>Spb</tag>
+	</tags>
 </header>
 
 <matches>

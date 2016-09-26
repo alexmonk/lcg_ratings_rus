@@ -56,7 +56,7 @@ struct Tournament
 {
 	string8_t m_name;
 	boost::gregorian::date m_date;
-	vector<string8_t> m_locations;
+	vector<string8_t> m_tags;
 	vector<Match> m_matches;
 	vector<Player> m_players;
 };

@@ -69,11 +69,11 @@ Tournament ReadTournament(const string8_t& filePath)
 	const ptree& header = root.get_child("header");
 	result.m_date = boost::gregorian::from_string(header.get<string8_t>("date"));
 	string8_t b = boost::gregorian::to_simple_string(result.m_date);
-	BOOST_FOREACH(const ptree::value_type& city, header.get_child("location"))
+	BOOST_FOREACH(const ptree::value_type& tag, header.get_child("tags"))
 	{
-		result.m_locations.push_back(city.second.get<string8_t>(""));
+		result.m_tags.push_back(tag.second.get<string8_t>(""));
 	}
-	EXPECT(!result.m_locations.empty());
+	EXPECT(!result.m_tags.empty());
 	
 	vector<Player> players;
 	BOOST_FOREACH(const ptree::value_type& match, root.get_child("matches"))
@@ -115,24 +115,24 @@ vector<Player> GetPlayers(const vector<Tournament>& tournaments)
 
 vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const vector<Tournament>& tournaments)
 {
-	struct City
+	struct Tag
 	{
-		City(const string8_t& name, const boost::gregorian::date& date) : m_name(name), m_date(date) { }
+		Tag(const string8_t& name, const boost::gregorian::date& date) : m_name(name), m_date(date) { }
 
 		string8_t m_name;
 		boost::gregorian::date m_date;
 	};
 
-	struct PlayerLocations
+	struct PlayerTags
 	{
-		explicit PlayerLocations(const Player& name) : m_name(name) { }
+		explicit PlayerTags(const Player& name) : m_name(name) { }
 
 		Player m_name;
-		vector<City> m_cities;
+		vector<Tag> m_tags;
 	};
 
-	vector<PlayerLocations> players;
-	vector<City> lastTournaments;
+	vector<PlayerTags> players;
+	vector<Tag> lastTournaments;
 
 	BOOST_FOREACH(const Tournament& tournament, tournaments)
 	{
@@ -140,48 +140,48 @@ vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const 
 		const boost::gregorian::date& currentDate = tournament.m_date;
 		BOOST_FOREACH(const Player& currentPlayer, currentPlayers)
 		{
-			vector<PlayerLocations>::iterator playerIt = boost::find_if(players, boost::bind(&PlayerLocations::m_name, _1) == currentPlayer);
+			vector<PlayerTags>::iterator playerIt = boost::find_if(players, boost::bind(&PlayerTags::m_name, _1) == currentPlayer);
 			if (playerIt == players.end())
 			{
-				players.push_back(PlayerLocations(currentPlayer));
+				players.push_back(PlayerTags(currentPlayer));
 				playerIt = players.end() - 1;
 			}
 
-			BOOST_FOREACH(const string8_t& city, tournament.m_locations)
+			BOOST_FOREACH(const string8_t& tag, tournament.m_tags)
 			{
-				vector<City>::iterator cityIt = boost::find_if(playerIt->m_cities, boost::bind(&City::m_name, _1) == city);
-				if (cityIt != playerIt->m_cities.end())
+				vector<Tag>::iterator cityIt = boost::find_if(playerIt->m_tags, boost::bind(&Tag::m_name, _1) == tag);
+				if (cityIt != playerIt->m_tags.end())
 				{
-					*cityIt = City(city, currentDate);
+					*cityIt = Tag(tag, currentDate);
 				}
 				else
 				{
-					playerIt->m_cities.push_back(City(city, currentDate));
+					playerIt->m_tags.push_back(Tag(tag, currentDate));
 				}
 			}
 
-			BOOST_FOREACH(const string8_t& city, tournament.m_locations)
+			BOOST_FOREACH(const string8_t& tag, tournament.m_tags)
 			{
-				vector<City>::iterator cityIt = boost::find_if(lastTournaments, boost::bind(&City::m_name, _1) == city);
-				if (cityIt != lastTournaments.end())
+				vector<Tag>::iterator tagIt = boost::find_if(lastTournaments, boost::bind(&Tag::m_name, _1) == tag);
+				if (tagIt != lastTournaments.end())
 				{
-					*cityIt = City(city, currentDate);
+					*tagIt = Tag(tag, currentDate);
 				}
 				else
 				{
-					lastTournaments.push_back(City(city, currentDate));
+					lastTournaments.push_back(Tag(tag, currentDate));
 				}
 			}
 		}
 	}
 
 	vector<Player> result;
-	BOOST_FOREACH(const PlayerLocations& player, players)
+	BOOST_FOREACH(const PlayerTags& player, players)
 	{
-		BOOST_FOREACH(const City& city, player.m_cities)
+		BOOST_FOREACH(const Tag& tag, player.m_tags)
 		{
-			const boost::gregorian::date& lastTournament = boost::find_if(lastTournaments, boost::bind(&City::m_name, _1) == city.m_name)->m_date;
-			if ((lastTournament - timeout) < city.m_date)
+			const boost::gregorian::date& lastTournament = boost::find_if(lastTournaments, boost::bind(&Tag::m_name, _1) == tag.m_name)->m_date;
+			if ((lastTournament - timeout) < tag.m_date)
 			{
 				result.push_back(player.m_name);
 				break;
