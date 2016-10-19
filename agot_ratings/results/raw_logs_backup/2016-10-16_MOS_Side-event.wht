@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name />
+  <Date>2016-10-16T00:00:00+03:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Id>
+      <Place>5</Place>
+      <Name />
+      <Surname />
+      <Alias>Ларик Борц</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.8889</Bucholz>
+      <Bucholz2>1.8519</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Id>
+      <Place>3</Place>
+      <Name />
+      <Surname />
+      <Alias>Александр Ложкин</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.2222</Bucholz>
+      <Bucholz2>3.0555</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f371a308-74df-49e7-b6e6-07cbf4af8712</Id>
+      <Place>9</Place>
+      <Name />
+      <Surname />
+      <Alias>Дмитрий Токун</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>false</Active>
+      <Bucholz>4.1666</Bucholz>
+      <Bucholz2>1.6666</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>0</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Id>
+      <Place>6</Place>
+      <Name />
+      <Surname />
+      <Alias>Егор Шурыгин</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.3333</Bucholz>
+      <Bucholz2>1.4815</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>79c6a357-6b74-4baf-81a8-b2111e946209</Id>
+      <Place>10</Place>
+      <Name />
+      <Surname />
+      <Alias>Тимофей Хохлов</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>false</Active>
+      <Bucholz>3.3334</Bucholz>
+      <Bucholz2>1.1111</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>0</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>eb16a17c-be41-4df6-9db1-107109a3444f</Id>
+      <Place>2</Place>
+      <Name />
+      <Surname />
+      <Alias>Евгений Овсянников</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>0</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.1111</Bucholz>
+      <Bucholz2>3.2407</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Id>
+      <Place>4</Place>
+      <Name />
+      <Surname />
+      <Alias>Илья Гирник</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.6667</Bucholz>
+      <Bucholz2>3.5185</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Id>
+      <Place>8</Place>
+      <Name />
+      <Surname />
+      <Alias>Дмитрий Мальцев</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.1111</Bucholz>
+      <Bucholz2>3.3333</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Id>
+      <Place>7</Place>
+      <Name />
+      <Surname />
+      <Alias>Николай Сучков</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.3333</Bucholz>
+      <Bucholz2>1.4815</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Id>
+      <Place>1</Place>
+      <Name />
+      <Surname />
+      <Alias>Сергей Афанасьев</Alias>
+      <Race>Stark</Race>
+      <Agenda />
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>0</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.6667</Bucholz>
+      <Bucholz2>3.5185</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player1Id>
+          <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Николай Сучков</Player1Alias>
+          <Player2Alias>Сергей Афанасьев</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+          <Player2Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Илья Гирник</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>79c6a357-6b74-4baf-81a8-b2111e946209</Player1Id>
+          <Player2Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Тимофей Хохлов</Player1Alias>
+          <Player2Alias>Евгений Овсянников</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+          <Player2Id>f371a308-74df-49e7-b6e6-07cbf4af8712</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Александр Ложкин</Player1Alias>
+          <Player2Alias>Дмитрий Токун</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player1Id>
+          <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Егор Шурыгин</Player1Alias>
+          <Player2Alias>Дмитрий Мальцев</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player1Id>
+          <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Егор Шурыгин</Player1Alias>
+          <Player2Alias>Сергей Афанасьев</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+          <Player2Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Александр Ложкин</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>f371a308-74df-49e7-b6e6-07cbf4af8712</Player1Id>
+          <Player2Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Токун</Player1Alias>
+          <Player2Alias>Евгений Овсянников</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player1Id>
+          <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Илья Гирник</Player1Alias>
+          <Player2Alias>Николай Сучков</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>79c6a357-6b74-4baf-81a8-b2111e946209</Player1Id>
+          <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Тимофей Хохлов</Player1Alias>
+          <Player2Alias>Дмитрий Мальцев</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>5</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+          <Player2Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Александр Ложкин</Player1Alias>
+          <Player2Alias>Евгений Овсянников</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+          <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ларик Борц</Player1Alias>
+          <Player2Alias>Сергей Афанасьев</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player1Id>
+          <Player2Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Егор Шурыгин</Player1Alias>
+          <Player2Alias>Илья Гирник</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player1Id>
+          <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Мальцев</Player1Alias>
+          <Player2Alias>Николай Сучков</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>4</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+      <Player2Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+      <Player2Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Евгений Овсянников</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+      <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Дмитрий Мальцев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Player1Id>
+      <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ларик Борц</Player1Alias>
+      <Player2Alias>Николай Сучков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+      <Player2Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ложкин</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+      <Player2Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ложкин</Player1Alias>
+      <Player2Alias>Илья Гирник</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+      <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ложкин</Player1Alias>
+      <Player2Alias>Дмитрий Мальцев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+      <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ложкин</Player1Alias>
+      <Player2Alias>Николай Сучков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Player1Id>
+      <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ложкин</Player1Alias>
+      <Player2Alias>Сергей Афанасьев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player1Id>
+      <Player2Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Егор Шурыгин</Player1Alias>
+      <Player2Alias>Евгений Овсянников</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Player1Id>
+      <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Егор Шурыгин</Player1Alias>
+      <Player2Alias>Николай Сучков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player1Id>
+      <Player2Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Илья Гирник</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player1Id>
+      <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Дмитрий Мальцев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player1Id>
+      <Player2Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Николай Сучков</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eb16a17c-be41-4df6-9db1-107109a3444f</Player1Id>
+      <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Овсянников</Player1Alias>
+      <Player2Alias>Сергей Афанасьев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player1Id>
+      <Player2Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Илья Гирник</Player1Alias>
+      <Player2Alias>Дмитрий Мальцев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Player1Id>
+      <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Илья Гирник</Player1Alias>
+      <Player2Alias>Сергей Афанасьев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Player1Id>
+      <Player2Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Мальцев</Player1Alias>
+      <Player2Alias>Сергей Афанасьев</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+  </AllGames>
+  <FinalResults>
+    <FinalResult>
+      <FinalPlace>1</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2faff31a-1d6e-4628-8a8e-4ff855206eed</Id>
+        <Place>1</Place>
+        <Name />
+        <Surname />
+        <Alias>Сергей Афанасьев</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>0</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.6667</Bucholz>
+        <Bucholz2>3.5185</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>2</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>eb16a17c-be41-4df6-9db1-107109a3444f</Id>
+        <Place>2</Place>
+        <Name />
+        <Surname />
+        <Alias>Евгений Овсянников</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>0</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.1111</Bucholz>
+        <Bucholz2>3.2407</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>3</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>c0bcb053-79ca-4354-8a81-706c698f09c0</Id>
+        <Place>3</Place>
+        <Name />
+        <Surname />
+        <Alias>Александр Ложкин</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.2222</Bucholz>
+        <Bucholz2>3.0555</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>4</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>0fc2988a-667b-4cb9-b071-009ab0a69015</Id>
+        <Place>4</Place>
+        <Name />
+        <Surname />
+        <Alias>Илья Гирник</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.6667</Bucholz>
+        <Bucholz2>3.5185</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>5</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>02bcb435-7590-4854-b5a6-7d409e87b2cf</Id>
+        <Place>5</Place>
+        <Name />
+        <Surname />
+        <Alias>Ларик Борц</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.8889</Bucholz>
+        <Bucholz2>1.8519</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>6</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>d96e165f-2559-400b-ad92-6bc29fd8c641</Id>
+        <Place>6</Place>
+        <Name />
+        <Surname />
+        <Alias>Егор Шурыгин</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.3333</Bucholz>
+        <Bucholz2>1.4815</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>7</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>a991c226-edb2-45aa-8bdb-68b6d7821705</Id>
+        <Place>7</Place>
+        <Name />
+        <Surname />
+        <Alias>Николай Сучков</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.3333</Bucholz>
+        <Bucholz2>1.4815</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>8</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>259ad28e-56dd-4abc-bf47-b7ea166b4a96</Id>
+        <Place>8</Place>
+        <Name />
+        <Surname />
+        <Alias>Дмитрий Мальцев</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.1111</Bucholz>
+        <Bucholz2>3.3333</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>9</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>f371a308-74df-49e7-b6e6-07cbf4af8712</Id>
+        <Place>9</Place>
+        <Name />
+        <Surname />
+        <Alias>Дмитрий Токун</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>0</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>false</Active>
+        <Bucholz>4.1666</Bucholz>
+        <Bucholz2>1.6666</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>0</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>10</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>79c6a357-6b74-4baf-81a8-b2111e946209</Id>
+        <Place>10</Place>
+        <Name />
+        <Surname />
+        <Alias>Тимофей Хохлов</Alias>
+        <Race>Stark</Race>
+        <Agenda />
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>0</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>false</Active>
+        <Bucholz>3.3334</Bucholz>
+        <Bucholz2>1.1111</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>0</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+  </FinalResults>
+  <Playoffs>
+    <StartRound>Final_16</StartRound>
+  </Playoffs>
+</Tournament>
