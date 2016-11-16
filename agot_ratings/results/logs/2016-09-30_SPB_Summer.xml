@@ -8,43 +8,43 @@
 </header>
 <matches>
 	<match>
-		<player1>Сергей Кириченко</player1>
-		<player2>Игорь Ревзин</player2>
+		<player1>Кириченко Сергей</player1>
+		<player2>Ревзин Игорь</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Артем Фомичев</player1>
-		<player2>Сергей Логинов</player2>
+		<player1>Фомичев Артем</player1>
+		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Родион Мартынов</player1>
+		<player1>Мартынов Родион</player1>
 		<player2>Резниченко Роман</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
+		<player1>Ветошкин Митя</player1>
 		<player2>Селин Олег</player2>
 		<games>
 			<game><score1>4</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Родион Мартынов</player1>
-		<player2>Игорь Ревзин</player2>
+		<player1>Мартынов Родион</player1>
+		<player2>Ревзин Игорь</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Артем Фомичев</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Фомичев Артем</player2>
 		<games>
 			<game><score1>0</score1><score2>4</score2></game>
 		</games>
@@ -57,28 +57,28 @@
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Кириченко</player1>
-		<player2>Сергей Логинов</player2>
+		<player1>Кириченко Сергей</player1>
+		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Родион Мартынов</player1>
-		<player2>Артем Фомичев</player2>
+		<player1>Мартынов Родион</player1>
+		<player2>Фомичев Артем</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Игорь Ревзин</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Ревзин Игорь</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Кириченко</player1>
+		<player1>Кириченко Сергей</player1>
 		<player2>Резниченко Роман</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
@@ -86,7 +86,7 @@
 	</match>
 	<match>
 		<player1>Селин Олег</player1>
-		<player2>Сергей Логинов</player2>
+		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>0</score1><score2>4</score2></game>
 		</games>

@@ -8,275 +8,275 @@
 </header>
 <matches>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Евгений Овсянников</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Овсянников Евгений</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
 		<player1>Логинов Сергей</player1>
-		<player2>Дмитрий Зубко</player2>
+		<player2>Зубко Дмитрий</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Игорь Ревзин</player1>
-		<player2>Андрей Овешников</player2>
+		<player1>Ревзин Игорь</player1>
+		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Михаил Поталицын</player1>
-		<player2>Андрей Щекотилов</player2>
+		<player1>Поталицын Михаил</player1>
+		<player2>Щекотилов Андрей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Артём Фомичев</player1>
-		<player2>Андрей Гаврилов</player2>
+		<player1>Фомичев Артем</player1>
+		<player2>Гаврилов Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Павел Ильичёв</player1>
-		<player2>Ларик Борц</player2>
+		<player1>Ильичев Павел</player1>
+		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Кириченко</player1>
-		<player2>Илья Журавлёв</player2>
+		<player1>Кириченко Сергей</player1>
+		<player2>Журавлев Илья</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Ларик Борц</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Андрей Овешников</player1>
-		<player2>Андрей Гаврилов</player2>
+		<player1>Овешников Андрей</player1>
+		<player2>Гаврилов Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Евгений Овсянников</player1>
-		<player2>Михаил Поталицын</player2>
+		<player1>Овсянников Евгений</player1>
+		<player2>Поталицын Михаил</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Кириченко</player1>
-		<player2>Никита Пугачёв</player2>
+		<player1>Кириченко Сергей</player1>
+		<player2>Пугачев Никита</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Павел Ильичёв</player1>
-		<player2>Илья Журавлёв</player2>
+		<player1>Ильичев Павел</player1>
+		<player2>Журавлев Илья</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
+		<player1>Ветошкин Митя</player1>
 		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Игорь Ревзин</player1>
-		<player2>Артём Фомичев</player2>
+		<player1>Ревзин Игорь</player1>
+		<player2>Фомичев Артем</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Евгений Овсянников</player1>
-		<player2>Никита Пугачёв</player2>
+		<player1>Овсянников Евгений</player1>
+		<player2>Пугачев Никита</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Андрей Гаврилов</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Гаврилов Андрей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Михаил Поталицын</player1>
-		<player2>Сергей Кириченко</player2>
+		<player1>Поталицын Михаил</player1>
+		<player2>Кириченко Сергей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Андрей Овешников</player1>
-		<player2>Андрей Щекотилов</player2>
+		<player1>Овешников Андрей</player1>
+		<player2>Щекотилов Андрей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Ларик Борц</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Игорь Ревзин</player1>
-		<player2>Илья Журавлёв</player2>
+		<player1>Ревзин Игорь</player1>
+		<player2>Журавлев Илья</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
 		<player1>Логинов Сергей</player1>
-		<player2>Артём Фомичев</player2>
+		<player2>Фомичев Артем</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Никита Пугачёв</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Пугачев Никита</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Евгений Овсянников</player1>
-		<player2>Сергей Кириченко</player2>
+		<player1>Овсянников Евгений</player1>
+		<player2>Кириченко Сергей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Андрей Гаврилов</player1>
-		<player2>Илья Журавлёв</player2>
+		<player1>Гаврилов Андрей</player1>
+		<player2>Журавлев Илья</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Андрей Овешников</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Михаил Поталицын</player1>
-		<player2>Ларик Борц</player2>
+		<player1>Поталицын Михаил</player1>
+		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Игорь Ревзин</player1>
-		<player2>Павел Ильичёв</player2>
+		<player1>Ревзин Игорь</player1>
+		<player2>Ильичев Павел</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Артём Фомичев</player1>
-		<player2>Андрей Щекотилов</player2>
+		<player1>Фомичев Артем</player1>
+		<player2>Щекотилов Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Сергей Кириченко</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Кириченко Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Илья Журавлёв</player1>
-		<player2>Никита Пугачёв</player2>
+		<player1>Журавлев Илья</player1>
+		<player2>Пугачев Никита</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Евгений Овсянников</player1>
-		<player2>Андрей Овешников</player2>
+		<player1>Овсянников Евгений</player1>
+		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Андрей Гаврилов</player1>
-		<player2>Ларик Борц</player2>
+		<player1>Гаврилов Андрей</player1>
+		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Митя Ветошкин</player1>
-		<player2>Игорь Ревзин</player2>
+		<player1>Ветошкин Митя</player1>
+		<player2>Ревзин Игорь</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Павел Ильичёв</player1>
-		<player2>Андрей Щекотилов</player2>
+		<player1>Ильичев Павел</player1>
+		<player2>Щекотилов Андрей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
 		<player1>Логинов Сергей</player1>
-		<player2>Михаил Поталицын</player2>
+		<player2>Поталицын Михаил</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Сергей Кириченко</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Кириченко Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Никита Пугачёв</player1>
-		<player2>Андрей Овешников</player2>
+		<player1>Пугачев Никита</player1>
+		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Дмитрий Зубко</player1>
-		<player2>Андрей Овешников</player2>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
 	</match>
 	<match>
-		<player1>Сергей Кириченко</player1>
-		<player2>Никита Пугачёв</player2>
+		<player1>Кириченко Сергей</player1>
+		<player2>Пугачев Никита</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
