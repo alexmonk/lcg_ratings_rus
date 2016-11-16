@@ -68,7 +68,7 @@ Tournament ReadTournament(const string8_t& filePath)
 
 	const ptree& header = root.get_child("header");
 	result.m_date = boost::gregorian::from_string(header.get<string8_t>("date"));
-	string8_t b = boost::gregorian::to_simple_string(result.m_date);
+	result.m_endOfSeason = header.get_optional<string8_t>("end_of_season").is_initialized();
 	BOOST_FOREACH(const ptree::value_type& tag, header.get_child("tags"))
 	{
 		result.m_tags.push_back(tag.second.get<string8_t>(""));
@@ -113,7 +113,7 @@ vector<Player> GetPlayers(const vector<Tournament>& tournaments)
 	return players;
 }
 
-vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const vector<Tournament>& tournaments)
+vector<string8_t> GetActivePlayers(boost::gregorian::date_duration& timeout, const vector<Tournament>& tournaments)
 {
 	struct Tag
 	{
@@ -175,7 +175,7 @@ vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const 
 		}
 	}
 
-	vector<Player> result;
+	vector<string8_t> result;
 	BOOST_FOREACH(const PlayerTags& player, players)
 	{
 		BOOST_FOREACH(const Tag& tag, player.m_tags)
@@ -183,7 +183,7 @@ vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const 
 			const boost::gregorian::date& lastTournament = boost::find_if(lastTournaments, boost::bind(&Tag::m_name, _1) == tag.m_name)->m_date;
 			if ((lastTournament - timeout) < tag.m_date)
 			{
-				result.push_back(player.m_name);
+				result.push_back(player.m_name.ToString());
 				break;
 			}
 		}

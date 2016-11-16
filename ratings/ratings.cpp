@@ -1,5 +1,6 @@
 #include <ratings.h>
 #include "tournament.h"
+#include "engine.h"
 #include "elo.h"
 #include <framework/system/filesystem.h>
 #include <boost/range/algorithm/sort.hpp>
@@ -18,9 +19,16 @@ void CalculateRatings(const string8_t& logDir, const string8_t& rootDir, double 
 		tournaments.push_back(ReadTournament(fileName));
 	}
 	boost::sort(tournaments, boost::bind(&Tournament::m_date, _1) < boost::bind(&Tournament::m_date, _2));
-	vector<Player> activePlayers = my::ratings::GetActivePlayers(boost::gregorian::date_duration(183), tournaments);
+	vector<string8_t> activePlayers = my::ratings::GetActivePlayers(boost::gregorian::date_duration(183), tournaments);
 
-	CalculateElo(tournaments, activePlayers, StandartEloSettings(raitingPerPoint), StandartFileSettings(rootDir, "elo"));
+	Engine elo("elo", CreateEloSystem(StandartEloSettings(raitingPerPoint)));
+
+	BOOST_FOREACH(const Tournament& tournament, tournaments)
+	{
+		elo.ProcessTournament(tournament);
+	}
+
+	elo.End(activePlayers);
 }
 
 } // namespace ratings

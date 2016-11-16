@@ -59,12 +59,13 @@ struct Tournament
 	vector<string8_t> m_tags;
 	vector<Match> m_matches;
 	vector<Player> m_players;
+	bool m_endOfSeason;
 };
 
 Tournament ReadTournament(const string8_t& filePath);
 
 vector<Player> GetPlayers(const vector<Tournament>& tournaments);
-vector<Player> GetActivePlayers(boost::gregorian::date_duration& timeout, const vector<Tournament>& tournaments);
+vector<string8_t> GetActivePlayers(boost::gregorian::date_duration& timeout, const vector<Tournament>& tournaments);
 
 } // namespace ratings
 } // namespace my
