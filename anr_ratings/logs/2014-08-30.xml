@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<header>
+	<date>2014-08-30</date>
+	<tags>
+		<tag>Msk</tag>
+		<tag>Spb</tag>
+	</tags>
+</header>
+
+<matches>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Колмаков Петр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Данюшевский Петр</player1>
+		<player2>Нащекин Алексей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Алексей</player1>
+		<player2>Пинчук Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Старк Сергей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Новикова Лилия</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Зубко Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Смирнов Михаил</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Данюшевский Петр</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Новикова Лилия</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Старк Сергей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Нащекин Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Данюшевский Петр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Пинчук Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Смирнов Михаил</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Нащекин Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Колмаков Петр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Новикова Лилия</player1>
+		<player2>Старк Сергей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Зубко Дмитрий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>1</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Данюшевский Петр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нащекин Алексей</player1>
+		<player2>Смирнов Михаил</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Новикова Лилия</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Колмаков Петр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>1</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рогозин Антон</player1>
+		<player2>Пинчук Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ковалев Александр</player1>
+		<player2>Данюшевский Петр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Новикова Лилия</player1>
+		<player2>Нащекин Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Смирнов Михаил</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Алексей</player1>
+		<player2>Мухин Анатолий</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Старк Сергей</player1>
+		<player2>Колмаков Петр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Черноножкин Василий</player1>
+		<player2>Зелянин Дмитрий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селина Анна</player1>
+		<player2>Шеляпин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>0</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Елисеев Борис</player1>
+		<player2>Иванов Максим</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селин Станислав</player1>
+		<player2>Лапыгин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Володин Антон</player1>
+		<player2>Дмитриев Павел</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Володин Антон</player1>
+		<player2>Черноножкин Василий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Елисеев Борис</player1>
+		<player2>Селина Анна</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селин Станислав</player1>
+		<player2>Шеляпин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Дмитриев Павел</player1>
+		<player2>Иванов Максим</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лапыгин Антон</player1>
+		<player2>Зелянин Дмитрий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>1</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селин Станислав</player1>
+		<player2>Володин Антон</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Елисеев Борис</player1>
+		<player2>Дмитриев Павел</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Черноножкин Василий</player1>
+		<player2>Лапыгин Антон</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селина Анна</player1>
+		<player2>Зелянин Дмитрий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>0</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Иванов Максим</player1>
+		<player2>Шеляпин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>1</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Елисеев Борис</player1>
+		<player2>Володин Антон</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Селин Станислав</player1>
+		<player2>Дмитриев Павел</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Черноножкин Василий</player1>
+		<player2>Селина Анна</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лапыгин Антон</player1>
+		<player2>Иванов Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шеляпин Антон</player1>
+		<player2>Зелянин Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>

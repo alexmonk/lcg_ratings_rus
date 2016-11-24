@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<header>
+	<date>2015-08-15</date>
+	<tags>
+		<tag>Msk</tag>
+	</tags>
+</header>
+
+<matches>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шишмарев Максим</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Амирханов Артем</player1>
+		<player2>Галкин Дмитрий</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бушан Андрей</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>1</score1><score2>1</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Амирханов Артем</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Попов Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шишмарев Максим</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Галкин Дмитрий</player1>
+		<player2>Бушан Андрей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Амирханов Артем</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шишмарев Максим</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пинчук Сергей</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Галкин Дмитрий</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Ярцев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шишмарев Максим</player1>
+		<player2>Амирханов Артем</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бушан Андрей</player1>
+		<player2>Пинчук Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>0</score1><score2>2</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Мухин Анатолий</player1>
+		<player2>Шишмарев Максим</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ярцев Александр</player1>
+		<player2>Ковалев Александр</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Попов Егор</player1>
+		<player2>Пинчук Алексей</player2>
+		<games>
+			<game><score1>2</score1><score2>0</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Амирханов Артем</player1>
+		<player2>Бушан Андрей</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Галкин Дмитрий</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>2</score2></game>
+			<game><score1>2</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
