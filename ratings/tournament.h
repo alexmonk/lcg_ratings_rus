@@ -60,6 +60,7 @@ struct Tournament
 	vector<Match> m_matches;
 	vector<Player> m_players;
 	bool m_endOfSeason;
+	uint32_t m_pointsPerMatch;
 };
 
 Tournament ReadTournament(const string8_t& filePath);

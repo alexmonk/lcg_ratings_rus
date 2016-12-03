@@ -18,7 +18,7 @@ struct ITournament
 
 struct ISeason
 {
-	virtual std::auto_ptr<ITournament> NewTournament(const string8_t& name) = 0;
+	virtual std::auto_ptr<ITournament> NewTournament(const string8_t& name, uint32_t pointsPerMatch) = 0;
 	virtual void DumpHistory(const string8_t& ratingFile, const string8_t& ratingHistoryFile, const string8_t& playersDir) = 0;
 	virtual void DumpActiveRating(const string8_t& ratingFile, const vector<string8_t>& activePlayers) = 0;
 

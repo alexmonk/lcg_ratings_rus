@@ -30,8 +30,8 @@ Engine::Engine(const string8_t& name, std::auto_ptr<ISystem>& system)
 
 void Engine::ProcessTournament(const Tournament& tournament)
 {
-	boost::scoped_ptr<ITournament> overallTournament(m_overallSeason->NewTournament(tournament.m_name));
-	boost::scoped_ptr<ITournament> seasonTournament(m_seasons.back().NewTournament(tournament.m_name));
+	boost::scoped_ptr<ITournament> overallTournament(m_overallSeason->NewTournament(tournament.m_name, tournament.m_pointsPerMatch));
+	boost::scoped_ptr<ITournament> seasonTournament(m_seasons.back().NewTournament(tournament.m_name, tournament.m_pointsPerMatch));
 
 	BOOST_FOREACH(const Match& match, tournament.m_matches)
 	{

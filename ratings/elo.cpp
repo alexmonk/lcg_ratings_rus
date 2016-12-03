@@ -73,8 +73,9 @@ string8_t RatingChangeToString(double prevRating, double changeInRating)
 class EloTournament: public ITournament
 {
 public:
-	explicit EloTournament(const EloSettings& settings, RatingStorage& ratings, std::auto_ptr<HistoryStorage::Tournament>& tournamentHistory)
+	explicit EloTournament(const EloSettings& settings, uint32_t pointsPerMatch, RatingStorage& ratings, std::auto_ptr<HistoryStorage::Tournament>& tournamentHistory)
 		: m_settings(settings)
+		, m_changeFactor(m_settings.m_fullChange/double(pointsPerMatch))
 		, m_ratings(ratings)
 		, m_tournamentHistory(tournamentHistory)
 	{
@@ -86,7 +87,7 @@ public:
 		double ratingA = m_ratings.Get(playerA);
 		double ratingB = m_ratings.Get(playerB);
 		double totalScore = scoreA + scoreB;
-		double changeOfRating = ChangeOfRating(ratingA, ratingB, double(scoreA)/totalScore, totalScore * m_settings.m_ratingPerPoint, m_settings);
+		double changeOfRating = ChangeOfRating(ratingA, ratingB, double(scoreA)/totalScore, totalScore * m_changeFactor, m_settings);
 		string8_t ratingTextA = RatingChangeToString(ratingA, changeOfRating);
 		string8_t ratingTextB = RatingChangeToString(ratingB, -changeOfRating);
 		m_tournamentHistory->AddRecord(playerA, ratingTextA + ", " + playerA + ", " + "(" + ToString(scoreA) + ") - (" + ToString(scoreB) + ")" + ", " + playerB + ", " + ratingTextB);
@@ -102,6 +103,7 @@ public:
 
 private:
 	const EloSettings& m_settings;
+	const double m_changeFactor;
 	RatingStorage& m_ratings;
 	boost::scoped_ptr<HistoryStorage::Tournament> m_tournamentHistory;
 };
@@ -116,9 +118,9 @@ public:
 	}
 
 public:
-	std::auto_ptr<ITournament> NewTournament(const string8_t& name)
+	std::auto_ptr<ITournament> NewTournament(const string8_t& name, uint32_t pointsPerMatch)
 	{
-		return std::auto_ptr<ITournament>(new EloTournament(m_settings, m_ratings, std::auto_ptr<HistoryStorage::Tournament>(new HistoryStorage::Tournament(m_history, name))));
+		return std::auto_ptr<ITournament>(new EloTournament(m_settings, pointsPerMatch, m_ratings, std::auto_ptr<HistoryStorage::Tournament>(new HistoryStorage::Tournament(m_history, name))));
 	}
 
 	void DumpHistory(const string8_t& ratingFile, const string8_t& ratingHistoryFile, const string8_t& playersDir)
@@ -157,21 +159,21 @@ std::auto_ptr<ISystem> CreateEloSystem(const EloSettings& settings)
 	return std::auto_ptr<ISystem>(new EloSystem(settings));
 }
 
-EloSettings::EloSettings(double startRating, double ratingPerPoint, double logisticPowerBase, double logisticRatingDenominator)
+EloSettings::EloSettings(double startRating, double fullChange, double logisticPowerBase, double logisticRatingDenominator)
 	: m_startRating(startRating)
-	, m_ratingPerPoint(ratingPerPoint)
+	, m_fullChange(fullChange)
 	, m_logisticPowerBase(logisticPowerBase)
 	, m_logisticRatingDenominator(logisticRatingDenominator)
 {
 	EXPECT(m_startRating > 0);
-	EXPECT(m_ratingPerPoint > 0);
+	EXPECT(m_fullChange > 0);
 	EXPECT(m_logisticPowerBase > 0);
 	EXPECT(m_logisticRatingDenominator > 0);
 }
 
-EloSettings StandartEloSettings(double ratingPerPoint)
+EloSettings StandartEloSettings()
 {
-	return EloSettings(1000, ratingPerPoint, 10, 400);
+	return EloSettings(1000, 20, 10, 400);
 }
 
 } // namespace ratings

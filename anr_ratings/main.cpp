@@ -145,7 +145,7 @@ int main()
 		string8_t rootDir = ".";
 
 		ConvertLogs(rawLogDir, logDir, rawLogBackupDir);
-		my::ratings::CalculateRatings(logDir, rootDir, 5);
+		my::ratings::CalculateRatings(logDir, rootDir);
 	}
 	catch (std::exception& e)
 	{

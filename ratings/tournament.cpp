@@ -69,6 +69,7 @@ Tournament ReadTournament(const string8_t& filePath)
 	const ptree& header = root.get_child("header");
 	result.m_date = boost::gregorian::from_string(header.get<string8_t>("date"));
 	result.m_endOfSeason = header.get_optional<string8_t>("end_of_season").is_initialized();
+	result.m_pointsPerMatch = header.get<uint32_t>("points_per_match");
 	BOOST_FOREACH(const ptree::value_type& tag, header.get_child("tags"))
 	{
 		result.m_tags.push_back(tag.second.get<string8_t>(""));

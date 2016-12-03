@@ -8,15 +8,15 @@ namespace ratings {
 
 struct EloSettings
 {
-	EloSettings(double startRating, double changeFactor, double logisticPowerBase, double logisticRatingDenominator);
+	EloSettings(double startRating, double fullChange, double logisticPowerBase, double logisticRatingDenominator);
 
 	double m_startRating;
-	double m_ratingPerPoint;
+	double m_fullChange;
 	double m_logisticPowerBase;
 	double m_logisticRatingDenominator;
 };
 
-EloSettings StandartEloSettings(double ratingPerPoint);
+EloSettings StandartEloSettings();
 
 std::auto_ptr<ISystem> CreateEloSystem(const EloSettings& settings);
 
