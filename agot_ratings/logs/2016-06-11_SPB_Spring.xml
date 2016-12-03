@@ -5,6 +5,7 @@
 	<tags>
 		<tag>Spb</tag>
 	</tags>
+	<points_per_match>5</points_per_match>
 </header>
 <matches>
 	<match>
