@@ -6,6 +6,7 @@
 		<tag>Msk</tag>
 		<tag>Spb</tag>
 	</tags>
+	<points_per_match>4</points_per_match>
 	<end_of_season />
 </header>
 

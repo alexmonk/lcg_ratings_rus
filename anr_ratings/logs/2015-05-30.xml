@@ -5,6 +5,7 @@
 	<tags>
 		<tag>Msk</tag>
 	</tags>
+	<points_per_match>4</points_per_match>
 </header>
 
 <matches>
