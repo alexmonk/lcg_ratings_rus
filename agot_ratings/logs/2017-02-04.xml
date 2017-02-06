@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2017-02-03</date>
+	<tags>
+		<tag>Msk</tag>
+	</tags>
+	<points_per_match>5</points_per_match>
+</header>
+<matches>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Гирник Илья</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Нелипович Виктор</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Токун Дмитрий</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Ветошкин Митя</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Рачинский Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Фомичёв Артём</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бакаев Павел</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Кузьмина Диана</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Хохлов Тимофей</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Журавлев Илья</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Журавлев Илья</player1>
+		<player2>Яковлев Артём</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Гирник Илья</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Кузьмина Диана</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ложкин Александр</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Смирнов Антон</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Шурыгин Егор</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Овешников Андрей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рачинский Олег</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Ревзин Игорь</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Нелипович Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Журавлев Илья</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гирник Илья</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Ветошкин Митя</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Токун Дмитрий</player1>
+		<player2>Кузьмина Диана</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Смирнов Антон</player1>
+		<player2>Рачинский Олег</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Фомичёв Артём</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Журавлев Илья</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Гирник Илья</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рачинский Олег</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Каракасиян Вания</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Кузьмина Диана</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Зубко Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Нелипович Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Ветошкин Митя</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Журавлев Илья</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ложкин Александр</player1>
+		<player2>Шурыгин Егор</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Стахмич Николай</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рачинский Олег</player1>
+		<player2>Яковлев Артём</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гирник Илья</player1>
+		<player2>Парфиевич Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Токун Дмитрий</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Кузьмина Диана</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овешников Андрей</player1>
+		<player2>Каракасиян Вания</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Хохлов Тимофей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Борц Ларик</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Ветошкин Митя</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Нелипович Виктор</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Борц Ларик</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Зубко Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Самигулин Максум</player1>
+		<player2>Зубко Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Фомичёв Артём</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+
+
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Гирник Илья</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рачинский Олег</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рачинский Олег</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гирник Илья</player1>
+		<player2>Овсянников Евгений</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Пугачёв Никита</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Александров Олег</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Гирник Илья</player1>
+		<player2>Рачинский Олег</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Овсянников Евгений</player1>
+		<player2>Ложкин Александр</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Пугачёв Никита</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Кулаев Лев</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
