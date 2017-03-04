@@ -56,7 +56,7 @@ void HistoryStorage::DumpHistory(const string8_t& ratingFile, const string8_t& r
 	uint32_t numTournaments = m_ratingsHistory.size();
 	uint32_t numPlayers = m_ratingsHistory.back().size();
 	string8_t ratingHistoryText = m_tournamentNames + ",\r\n";
-	for (size_t row = 0; row <= numPlayers; ++row)
+	for (size_t row = 0; row < numPlayers; ++row)
 	{
 		string8_t rowText = ToString(row + 1);
 		for (size_t column = 0; column < numTournaments; ++column)
