@@ -8,6 +8,7 @@
 #include <boost/range/algorithm/find_if.hpp>
 #include <boost/foreach.hpp>
 #include <boost/bind.hpp>
+#include <boost/optional.hpp>
 #include <iostream>
 
 struct PlayerAlias
@@ -58,6 +59,16 @@ string8_t TableToString(const boost::property_tree::ptree& root, const vector<Pl
 	return text;
 }
 
+template<typename OutType, typename NodeType>
+OutType TryGet(const NodeType& node, const string8_t& name)
+{
+	boost::optional<OutType> value = node.get_optional<OutType>(name.c_str());
+	if (!value.is_initialized())
+		return OutType();
+
+	return value.get();
+}
+
 void ConvertLog(const string8_t& input, const string8_t& output)
 {
 	using namespace boost::property_tree;
@@ -71,8 +82,8 @@ void ConvertLog(const string8_t& input, const string8_t& output)
 	vector<PlayerAlias> players;
 	BOOST_FOREACH(const ptree::value_type& player, root.get_child("PointsTable"))
 	{
-		string8_t name = player.second.get<string8_t>("Name");
-		string8_t surname = player.second.get<string8_t>("Surname");
+		string8_t name = TryGet<string8_t>(player.second, "Name");
+		string8_t surname = TryGet<string8_t>(player.second, "Surname");
 		string8_t alias = player.second.get<string8_t>("Alias");
 		string8_t fullName;
 		if (surname.empty() || name.empty())

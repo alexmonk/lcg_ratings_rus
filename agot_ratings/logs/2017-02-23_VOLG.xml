@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2017-02-22</date>
+	<tags>
+		<tag>Volg</tag>
+	</tags>
+	<points_per_match>5</points_per_match>
+</header>
+<matches>
+	<match>
+		<player1>Бригадирова Анастасия</player1>
+		<player2>Мальцев Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нагих Андрей</player1>
+		<player2>Рудичев Александр</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нагих Андрей</player1>
+		<player2>Бригадирова Анастасия</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рудичев Александр</player1>
+		<player2>Мальцев Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Рудичев Александр</player1>
+		<player2>Бригадирова Анастасия</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нагих Андрей</player1>
+		<player2>Мальцев Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
