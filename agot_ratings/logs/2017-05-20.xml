@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2017-05-20</date>
+	<tags>
+		<tag>Msk</tag>
+	</tags>
+	<points_per_match>5</points_per_match>
+</header>
+<matches>
+	<match>
+		<player1>Иванов Владимир</player1>
+		<player2>Александрова Елизавета</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Дрожалин Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Яковлев Артём</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Стахмич Николай</player1>
+		<player2>Александров Олег</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Александров Олег</player1>
+		<player2>Дрожалин Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бакаев Павел</player1>
+		<player2>Лазарев Максим</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Иванов Владимир</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Яковлев Артём</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Иванов Владимир</player1>
+		<player2>Дрожалин Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Бакаев Павел</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Александров Олег</player1>
+		<player2>Александрова Елизавета</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Яковлев Артём</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Дрожалин Максим</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Иванов Владимир</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Александрова Елизавета</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бакаев Павел</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Александров Олег</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Нелипович Виктор</player1>
+		<player2>Дрожалин Максим</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Бакаев Павел</player1>
+		<player2>Иванов Владимир</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Борц Ларик</player1>
+		<player2>Александрова Елизавета</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Яковлев Артём</player1>
+		<player2>Токун Дмитрий</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Лазарев Максим</player1>
+		<player2>Стахмич Николай</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
