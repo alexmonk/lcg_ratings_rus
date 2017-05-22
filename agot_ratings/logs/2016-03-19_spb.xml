@@ -9,7 +9,7 @@
 </header>
 <matches>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Овсянников Евгений</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
@@ -93,7 +93,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Логинов Сергей</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
@@ -135,7 +135,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Борц Ларик</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
@@ -177,7 +177,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
@@ -233,7 +233,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Ревзин Игорь</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>

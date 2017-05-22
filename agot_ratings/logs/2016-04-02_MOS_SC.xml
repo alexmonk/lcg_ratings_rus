@@ -24,7 +24,7 @@
 	</match>
 	<match>
 		<player1>Гаврилов Андрей</player1>
-		<player2>Ветошкин Митя</player2>
+		<player2>Ветошкин Дмитрий</player2>
 		<games>
 			<game><score1>5</score1><score2>0</score2></game>
 		</games>
@@ -136,7 +136,7 @@
 	</match>
 	<match>
 		<player1>Бакаев Павел</player1>
-		<player2>Ветошкин Митя</player2>
+		<player2>Ветошкин Дмитрий</player2>
 		<games>
 			<game><score1>1</score1><score2>4</score2></game>
 		</games>
@@ -199,7 +199,7 @@
 	</match>
 	<match>
 		<player1>Кулаев Лев</player1>
-		<player2>Ветошкин Митя</player2>
+		<player2>Ветошкин Дмитрий</player2>
 		<games>
 			<game><score1>1</score1><score2>4</score2></game>
 		</games>
@@ -247,7 +247,7 @@
 		</games>
 	</match>
 	<match>
-		<player1>Ветошкин Митя</player1>
+		<player1>Ветошкин Дмитрий</player1>
 		<player2>Овешников Андрей</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
@@ -325,7 +325,7 @@
 	</match>
 	<match>
 		<player1>Ганихин Дмитрий</player1>
-		<player2>Ветошкин Митя</player2>
+		<player2>Ветошкин Дмитрий</player2>
 		<games>
 			<game><score1>0</score1><score2>5</score2></game>
 		</games>
