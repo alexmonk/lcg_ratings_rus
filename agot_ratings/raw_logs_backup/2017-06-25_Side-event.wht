@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name />
+  <Date>2017-06-25T00:00:00+03:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Id>
+      <Place>3</Place>
+      <Name />
+      <Surname />
+      <Alias>Нелипович Виктор</Alias>
+      <Race>TheNightsWatch</Race>
+      <Agenda>Kings of Summer</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.3333</Bucholz>
+      <Bucholz2>2.5926</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Id>
+      <Place>2</Place>
+      <Name />
+      <Surname />
+      <Alias>Токун Дмитрий</Alias>
+      <Race>Tyrell</Race>
+      <Agenda>Kings of Summer</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.3333</Bucholz>
+      <Bucholz2>2.5926</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>51ee609a-b841-46cc-a584-2a820da4411b</Id>
+      <Place>8</Place>
+      <Name />
+      <Surname />
+      <Alias>Ветошкин Митя</Alias>
+      <Race>Greyjoy</Race>
+      <Agenda>Stark</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.6667</Bucholz>
+      <Bucholz2>2.5926</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Id>
+      <Place>9</Place>
+      <Name />
+      <Surname />
+      <Alias>Хохлов Тимофей</Alias>
+      <Race>Martell</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.6667</Bucholz>
+      <Bucholz2>2.2222</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>b195c886-a772-4afa-8a79-04f0b8109e91</Id>
+      <Place>10</Place>
+      <Name />
+      <Surname />
+      <Alias>Кулаев Лев</Alias>
+      <Race>Stark</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>15</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.2222</Bucholz>
+      <Bucholz2>1.6667</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>0</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>11b011c0-cf6c-4088-99da-ecbadc000949</Id>
+      <Place>5</Place>
+      <Name />
+      <Surname />
+      <Alias>Яковлев Артём</Alias>
+      <Race>TheNightsWatch</Race>
+      <Agenda>Martell</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>1.6667</Bucholz>
+      <Bucholz2>2.4074</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Id>
+      <Place>4</Place>
+      <Name />
+      <Surname />
+      <Alias>Зернов Дмитрий</Alias>
+      <Race>Targaryen</Race>
+      <Agenda>Stark</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>5</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.2222</Bucholz>
+      <Bucholz2>2.5926</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>5523c10b-765b-4298-b88d-84532bfd4868</Id>
+      <Place>6</Place>
+      <Name />
+      <Surname />
+      <Alias>Дрожалин Максим</Alias>
+      <Race>Greyjoy</Race>
+      <Agenda>Baratheon</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>3.3333</Bucholz>
+      <Bucholz2>2.5926</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Id>
+      <Place>1</Place>
+      <Name />
+      <Surname />
+      <Alias>Александров Олег</Alias>
+      <Race>Targaryen</Race>
+      <Agenda>Fealty</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>15</SmallPointsPlus>
+      <SmallPointsMinus>0</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.7778</Bucholz>
+      <Bucholz2>3.3333</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>15</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Id>
+      <Place>7</Place>
+      <Name />
+      <Surname />
+      <Alias>Александрова Елизавета</Alias>
+      <Race>Tyrell</Race>
+      <Agenda>Kings of Summer</Agenda>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>5</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>2.7778</Bucholz>
+      <Bucholz2>2.4074</Bucholz2>
+      <MBucholz>0</MBucholz>
+      <Points>5</Points>
+      <SuperBYE>false</SuperBYE>
+      <CardsLanguage>PL</CardsLanguage>
+      <GroupPointWinner>false</GroupPointWinner>
+      <Group />
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+          <Player2Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Хохлов Тимофей</Player1Alias>
+          <Player2Alias>Кулаев Лев</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>5523c10b-765b-4298-b88d-84532bfd4868</Player1Id>
+          <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дрожалин Максим</Player1Alias>
+          <Player2Alias>Александров Олег</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+          <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ветошкин Митя</Player1Alias>
+          <Player2Alias>Зернов Дмитрий</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+          <Player2Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Нелипович Виктор</Player1Alias>
+          <Player2Alias>Яковлев Артём</Player2Alias>
+          <Player1Race>TheNightsWatch</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+          <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Токун Дмитрий</Player1Alias>
+          <Player2Alias>Александрова Елизавета</Player2Alias>
+          <Player1Race>Tyrell</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+          <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Нелипович Виктор</Player1Alias>
+          <Player2Alias>Александров Олег</Player2Alias>
+          <Player1Race>TheNightsWatch</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+          <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Токун Дмитрий</Player1Alias>
+          <Player2Alias>Зернов Дмитрий</Player2Alias>
+          <Player1Race>Tyrell</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+          <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Хохлов Тимофей</Player1Alias>
+          <Player2Alias>Александрова Елизавета</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+          <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ветошкин Митя</Player1Alias>
+          <Player2Alias>Дрожалин Максим</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+          <Player2Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Кулаев Лев</Player1Alias>
+          <Player2Alias>Яковлев Артём</Player2Alias>
+          <Player1Race>Stark</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>5</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>true</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+          <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Токун Дмитрий</Player1Alias>
+          <Player2Alias>Александров Олег</Player2Alias>
+          <Player1Race>Tyrell</Player1Race>
+          <Player2Race>Targaryen</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+          <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Нелипович Виктор</Player1Alias>
+          <Player2Alias>Дрожалин Максим</Player2Alias>
+          <Player1Race>TheNightsWatch</Player1Race>
+          <Player2Race>Greyjoy</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+          <Player2Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Хохлов Тимофей</Player1Alias>
+          <Player2Alias>Яковлев Артём</Player2Alias>
+          <Player1Race>Martell</Player1Race>
+          <Player2Race>TheNightsWatch</Player2Race>
+          <Score>Score_0_5</Score>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player1Id>
+          <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Зернов Дмитрий</Player1Alias>
+          <Player2Alias>Александрова Елизавета</Player2Alias>
+          <Player1Race>Targaryen</Player1Race>
+          <Player2Race>Tyrell</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+          <Player2Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ветошкин Митя</Player1Alias>
+          <Player2Alias>Кулаев Лев</Player2Alias>
+          <Player1Race>Greyjoy</Player1Race>
+          <Player2Race>Stark</Player2Race>
+          <Score>Score_5_0</Score>
+          <Number>5</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Токун Дмитрий</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>51ee609a-b841-46cc-a584-2a820da4411b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Ветошкин Митя</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Хохлов Тимофей</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Кулаев Лев</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Зернов Дмитрий</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>51ee609a-b841-46cc-a584-2a820da4411b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player2Alias>Ветошкин Митя</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player2Alias>Хохлов Тимофей</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player2Alias>Кулаев Лев</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Stark</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player2Alias>Яковлев Артём</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>TheNightsWatch</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player2Alias>Дрожалин Максим</Player2Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+      <Player2Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ветошкин Митя</Player1Alias>
+      <Player2Alias>Хохлов Тимофей</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Martell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+      <Player2Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ветошкин Митя</Player1Alias>
+      <Player2Alias>Яковлев Артём</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>TheNightsWatch</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+      <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ветошкин Митя</Player1Alias>
+      <Player2Alias>Александров Олег</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ветошкин Митя</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+      <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Хохлов Тимофей</Player1Alias>
+      <Player2Alias>Зернов Дмитрий</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+      <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Хохлов Тимофей</Player1Alias>
+      <Player2Alias>Дрожалин Максим</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+      <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Хохлов Тимофей</Player1Alias>
+      <Player2Alias>Александров Олег</Player2Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+      <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Кулаев Лев</Player1Alias>
+      <Player2Alias>Зернов Дмитрий</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+      <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Кулаев Лев</Player1Alias>
+      <Player2Alias>Дрожалин Максим</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+      <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Кулаев Лев</Player1Alias>
+      <Player2Alias>Александров Олег</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Кулаев Лев</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player1Id>
+      <Player2Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Яковлев Артём</Player1Alias>
+      <Player2Alias>Зернов Дмитрий</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player1Id>
+      <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Яковлев Артём</Player1Alias>
+      <Player2Alias>Дрожалин Максим</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player1Id>
+      <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Яковлев Артём</Player1Alias>
+      <Player2Alias>Александров Олег</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Яковлев Артём</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player1Id>
+      <Player2Id>5523c10b-765b-4298-b88d-84532bfd4868</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зернов Дмитрий</Player1Alias>
+      <Player2Alias>Дрожалин Максим</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Greyjoy</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player1Id>
+      <Player2Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зернов Дмитрий</Player1Alias>
+      <Player2Alias>Александров Олег</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Targaryen</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5523c10b-765b-4298-b88d-84532bfd4868</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дрожалин Максим</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player1Id>
+      <Player2Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александров Олег</Player1Alias>
+      <Player2Alias>Александрова Елизавета</Player2Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>Tyrell</Player2Race>
+      <Score>NotSet</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Нелипович Виктор</Player1Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Токун Дмитрий</Player1Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>51ee609a-b841-46cc-a584-2a820da4411b</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ветошкин Митя</Player1Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Хохлов Тимофей</Player1Alias>
+      <Player1Race>Martell</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b195c886-a772-4afa-8a79-04f0b8109e91</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Кулаев Лев</Player1Alias>
+      <Player1Race>Stark</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b011c0-cf6c-4088-99da-ecbadc000949</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Яковлев Артём</Player1Alias>
+      <Player1Race>TheNightsWatch</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зернов Дмитрий</Player1Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5523c10b-765b-4298-b88d-84532bfd4868</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дрожалин Максим</Player1Alias>
+      <Player1Race>Greyjoy</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александров Олег</Player1Alias>
+      <Player1Race>Targaryen</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александрова Елизавета</Player1Alias>
+      <Player1Race>Tyrell</Player1Race>
+      <Player2Race>NotSet</Player2Race>
+      <Score>Score_BYE</Score>
+      <Number>0</Number>
+    </Game>
+  </AllGames>
+  <FinalResults>
+    <FinalResult>
+      <FinalPlace>1</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>b009d8e9-8992-416d-aa35-c778f72a0e5c</Id>
+        <Place>1</Place>
+        <Name />
+        <Surname />
+        <Alias>Александров Олег</Alias>
+        <Race>Targaryen</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>15</SmallPointsPlus>
+        <SmallPointsMinus>0</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.7778</Bucholz>
+        <Bucholz2>3.3333</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>15</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>2</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>d88e669b-0bd6-43d7-8c2d-f3dac1012c9b</Id>
+        <Place>2</Place>
+        <Name />
+        <Surname />
+        <Alias>Токун Дмитрий</Alias>
+        <Race>Tyrell</Race>
+        <Agenda>Kings of Summer</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.3333</Bucholz>
+        <Bucholz2>2.5926</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>3</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>1ffdda4b-2ce0-4047-83d6-e122d777f46c</Id>
+        <Place>3</Place>
+        <Name />
+        <Surname />
+        <Alias>Нелипович Виктор</Alias>
+        <Race>TheNightsWatch</Race>
+        <Agenda>Kings of Summer</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.3333</Bucholz>
+        <Bucholz2>2.5926</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>4</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>8dd8d48c-8654-4a8e-805c-f75a89c55833</Id>
+        <Place>4</Place>
+        <Name />
+        <Surname />
+        <Alias>Зернов Дмитрий</Alias>
+        <Race>Targaryen</Race>
+        <Agenda>Stark</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.2222</Bucholz>
+        <Bucholz2>2.5926</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>5</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>11b011c0-cf6c-4088-99da-ecbadc000949</Id>
+        <Place>5</Place>
+        <Name />
+        <Surname />
+        <Alias>Яковлев Артём</Alias>
+        <Race>TheNightsWatch</Race>
+        <Agenda>Martell</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>5</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.6667</Bucholz>
+        <Bucholz2>2.4074</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>10</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>6</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>5523c10b-765b-4298-b88d-84532bfd4868</Id>
+        <Place>6</Place>
+        <Name />
+        <Surname />
+        <Alias>Дрожалин Максим</Alias>
+        <Race>Greyjoy</Race>
+        <Agenda>Baratheon</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>3.3333</Bucholz>
+        <Bucholz2>2.5926</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>7</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2aba64a9-2b8a-49ae-8933-60c0f03965e0</Id>
+        <Place>7</Place>
+        <Name />
+        <Surname />
+        <Alias>Александрова Елизавета</Alias>
+        <Race>Tyrell</Race>
+        <Agenda>Kings of Summer</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.7778</Bucholz>
+        <Bucholz2>2.4074</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>8</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>51ee609a-b841-46cc-a584-2a820da4411b</Id>
+        <Place>8</Place>
+        <Name />
+        <Surname />
+        <Alias>Ветошкин Митя</Alias>
+        <Race>Greyjoy</Race>
+        <Agenda>Stark</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.6667</Bucholz>
+        <Bucholz2>2.5926</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>9</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>2f5d8256-56a1-4bd5-93c6-db458a13a92c</Id>
+        <Place>9</Place>
+        <Name />
+        <Surname />
+        <Alias>Хохлов Тимофей</Alias>
+        <Race>Martell</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>5</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>1.6667</Bucholz>
+        <Bucholz2>2.2222</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>5</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>10</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>b195c886-a772-4afa-8a79-04f0b8109e91</Id>
+        <Place>10</Place>
+        <Name />
+        <Surname />
+        <Alias>Кулаев Лев</Alias>
+        <Race>Stark</Race>
+        <Agenda>Fealty</Agenda>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>0</GamesDraw>
+        <GamesLoose>3</GamesLoose>
+        <SmallPointsPlus>0</SmallPointsPlus>
+        <SmallPointsMinus>15</SmallPointsMinus>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>2.2222</Bucholz>
+        <Bucholz2>1.6667</Bucholz2>
+        <MBucholz>0</MBucholz>
+        <Points>0</Points>
+        <SuperBYE>false</SuperBYE>
+        <CardsLanguage>PL</CardsLanguage>
+        <GroupPointWinner>false</GroupPointWinner>
+        <Group />
+      </Player>
+    </FinalResult>
+  </FinalResults>
+  <Playoffs>
+    <StartRound>Final_16</StartRound>
+  </Playoffs>
+</Tournament>
