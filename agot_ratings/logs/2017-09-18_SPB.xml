@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<header>
+	<date>2017-09-18</date>
+	<tags>
+		<tag>Spb</tag>
+	</tags>
+	<points_per_match>5</points_per_match>
+</header>
+<matches>
+	<match>
+		<player1>Сергеев Роман</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>0</score1><score2>4</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Логинов Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Ревзин Игорь</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Логинов Сергей</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Сергеев Роман</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>4</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Сергеев Роман</player1>
+		<player2>Логинов Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Фомичёв Артём</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ревзин Игорь</player1>
+		<player2>Сергеев Роман</player2>
+		<games>
+			<game><score1>5</score1><score2>0</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Фомичёв Артём</player1>
+		<player2>Логинов Сергей</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+	<match>
+		<player1>Ветошкин Митя</player1>
+		<player2>Поталицын Михаил</player2>
+		<games>
+			<game><score1>0</score1><score2>5</score2></game>
+		</games>
+	</match>
+</matches>
+</root>
